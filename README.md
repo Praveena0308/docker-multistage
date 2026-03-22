@@ -136,14 +136,7 @@ curl -X DELETE http://localhost:8080/items/server1
 ### Health Check Response
 
 ```json
-{
-  "status": "healthy",
-  "timestamp": "2024-01-15T10:30:00.000Z",
-  "version": "1.0.0",
-  "environment": "production",
-  "hostname": "0042b9f6d971",
-  "python": "3.12.0"
-}
+{"status":"healthy","timestamp":"2026-03-22T09:31:34.157133","version":"1.0.0","environment":"production","hostname":"4629630db975","python":"3.12.12"}
 ```
 
 ---
